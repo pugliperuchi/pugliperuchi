@@ -1,17 +1,12 @@
-# ¡Hola, soy @pugliperuchi! 👋
+¡Hola, soy Agustin Pugliese! 👋
+¡Bienvenido a mi perfil! Aquí tienes un poco de información sobre mí:
 
-¡Bienvenido a mi perfil! Permíteme presentarme y compartir algunos detalles sobre mí:
+👀 Me interesan la inteligencia artificial, el procesamiento del lenguaje natural y la informática en general. Me fascina el potencial de la tecnología para resolver problemas complejos y mejorar la vida de las personas.
 
-- 💡 Estoy abierto a colaborar en proyectos interesantes e innovadores. Si tienes alguna idea emocionante en mente o necesitas ayuda con un proyecto, ¡me encantaría ser parte de ello!
+🌱 Actualmente estoy aprendiendo y explorando diversos temas en el campo del aprendizaje automático. Disfruto manteniéndome actualizado con las últimas investigaciones y avances en IA, así como experimentando con diferentes algoritmos y técnicas.
 
-- 🌐 Puedes encontrarme en las siguientes plataformas: [LinkedIn](https://www.linkedin.com/in/pugliperuchi), [Kaggle](https://www.kaggle.com/pugliperuchi), [Stepik](https://stepik.org/users/123456), [LeetCode](https://leetcode.com/pugliperuchi). No dudes en conectarte conmigo o revisar mi trabajo en estas plataformas.
+💞️ Estoy buscando colaborar en proyectos que involucren comprensión del lenguaje, generación de texto o cualquier otra aplicación emocionante de IA. Si tienes un proyecto interesante en mente o necesitas ayuda con uno existente, no dudes en contactarme.
 
-- 💻 Lenguajes de programación que manejo: Python, JavaScript, Java, Clojure, C++, C, Bash y SQL. Tengo experiencia en trabajar con estos lenguajes y puedo adaptarme fácilmente a diferentes entornos.
+📫 Cómo contactarme: Puedes comunicarte conmigo a través de mi perfil de GitHub o enviarme un correo electrónico a [puglirey98@gmail.com] Siempre estoy abierto a interesantes discusiones, colaboraciones o cualquier pregunta que puedas tener.
 
-- 🧠 Herramientas y bibliotecas de ML/DL que utilizo: Pandas, NumPy, MLFlow, Scikit-Learn, PyTorch, SciPy y Matplotlib. Estas herramientas me permiten realizar tareas de manipulación y análisis de datos, así como construir y entrenar modelos de aprendizaje automático y profundo.
-
-- 🚀 También tengo experiencia en el desarrollo web utilizando tecnologías y frameworks como Django, React, HTML5, CSS3 y Docker. Estas herramientas me permiten crear aplicaciones web robustas y modernas.
-
-- 🖥️ Tengo experiencia trabajando en sistemas operativos como Linux, Windows y FreeBSD. Estoy familiarizado con el entorno de desarrollo en estos sistemas y puedo adaptarme a diferentes plataformas.
-
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas discutir alguna colaboración, no dudes en contactarme. ¡Espero poder trabajar contigo en proyectos emocionantes y desafiantes!
+¡Gracias por visitar mi perfil! Estoy emocionado de conectarme con otros desarrolladores, investigadores y entusiastas de la IA. ¡Aprendamos y creemos cosas increíbles juntos! mejoralo, hazlo ver mas formal y profesional
